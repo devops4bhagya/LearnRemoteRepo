@@ -1,0 +1,5 @@
+testing git add .
+git commit -m msg
+git remote add origin http
+git push -u origin master
+
